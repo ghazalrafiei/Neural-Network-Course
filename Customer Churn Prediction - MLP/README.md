@@ -1,4 +1,4 @@
-##Customer Churn Prediction with MLP.
+## Customer Churn Prediction with MLP.
 
 Data is available at [here](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers).
 

@@ -2,5 +2,5 @@
 
 Dataset is available at [here](https://github.com/mansourehk/ShEMO)
 
-(Did not got a desirable result)
+(Did not get a desirable result)
 

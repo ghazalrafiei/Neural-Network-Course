@@ -2,5 +2,3 @@
 
 Dataset is available at [here](https://github.com/mansourehk/ShEMO)
 
-(Did not get a desirable result)
-
